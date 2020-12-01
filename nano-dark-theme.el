@@ -29,4 +29,4 @@
 (defvar nano-color-faded      "#616E87") ;; 
 
 (require 'nano-theme)
-(provide 'nano-theme-dark)
+(provide 'nano-dark-theme)
