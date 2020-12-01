@@ -25,6 +25,10 @@
 ;; exception is the highlight line mode that uses a very light color.
 ;;
 ;; ---------------------------------------------------------------------
+(require 'nano-layout)
+(require 'nano-modeline)
+(require 'nano-help)
+(require 'nano-splash)
 
 ;; When we set a face, we take care of removing any previous settings
 (defun set-face (face style)
