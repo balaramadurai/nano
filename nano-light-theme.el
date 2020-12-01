@@ -29,4 +29,4 @@
 (defvar nano-color-faded      "#B0BEC5") ;; Blue Grey / L200
 
 (require 'nano-theme)
-(provide 'nano-theme-light)
+(provide 'nano-light-theme)
