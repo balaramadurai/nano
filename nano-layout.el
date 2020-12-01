@@ -18,10 +18,11 @@
 
 (setq default-frame-alist
       (append (list
-	       '(font . "Roboto Mono:style=Light:size=14")
+	       '(font . "Roboto Mono:style=Light:size=12")
 ;;	       '(font . "Roboto Mono Emacs Regular 14")
 	       '(min-height . 1)  '(height     . 45)
 	       '(min-width  . 40) '(width      . 81)
+	       '(undecorated . t)
                '(vertical-scroll-bars . nil)
                '(internal-border-width . 24)
                '(left-fringe    . 0)
